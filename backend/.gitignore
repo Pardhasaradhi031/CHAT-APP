@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Coverage (if using test coverage tools like Jest)
+coverage/
+
+# Optional: OS-specific
+*.swp
+*.swo
